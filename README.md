@@ -1,0 +1,2 @@
+# NetCoreReactCleanArq
+NetCoreReactCleanArq
