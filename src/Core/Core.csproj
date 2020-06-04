@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entity\" />
+    <Folder Include="UseCase\Getway\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataProvider\DataProvider.csproj" />
+  </ItemGroup>
+
+</Project>
